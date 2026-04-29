@@ -1,0 +1,74 @@
+[
+    {
+        "transactionId": "TX30",
+        "userId": "u4",
+        "amount": 2000,
+        "timestamp": "2026-04-28T08:00:00Z",
+        "location": "Lagos"
+    },
+    {
+        "transactionId": "TX31",
+        "userId": "u4",
+        "amount": 3000,
+        "timestamp": "2026-04-28T09:00:00Z",
+        "location": "Lagos"
+    },
+    {
+        "transactionId": "TX32",
+        "userId": "u4",
+        "amount": 6000,
+        "timestamp": "2026-04-28T10:00:00Z",
+        "location": "Lagos"
+    },
+
+    {
+        "transactionId": "TX33",
+        "userId": "u4",
+        "amount": 100,
+        "timestamp": "2026-04-28T10:00:10Z",
+        "location": "Lagos"
+    },
+    {
+        "transactionId": "TX34",
+        "userId": "u4",
+        "amount": 100,
+        "timestamp": "2026-04-28T10:00:20Z",
+        "location": "Lagos"
+    },
+    {
+        "transactionId": "TX35",
+        "userId": "u4",
+        "amount": 100,
+        "timestamp": "2026-04-28T10:00:30Z",
+        "location": "Lagos"
+    },
+    {
+        "transactionId": "TX36",
+        "userId": "u4",
+        "amount": 100,
+        "timestamp": "2026-04-28T10:00:40Z",
+        "location": "Lagos"
+    },
+    {
+        "transactionId": "TX37",
+        "userId": "u4",
+        "amount": 100,
+        "timestamp": "2026-04-28T10:00:50Z",
+        "location": "Lagos"
+    },
+    {
+        "transactionId": "TX38",
+        "userId": "u4",
+        "amount": 100,
+        "timestamp": "2026-04-28T10:01:00Z",
+        "location": "Lagos"
+    },
+
+    {
+        "transactionId": "TX39",
+        "userId": "u4",
+        "amount": 500,
+        "timestamp": "2026-04-28T10:02:00Z",
+        "location": "New York"
+    }
+]

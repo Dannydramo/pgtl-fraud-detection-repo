@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: pgtl-fraud-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install && npm run build
+    startCommand: npm run start:prod
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: REDIS_URL
+        sync: false
